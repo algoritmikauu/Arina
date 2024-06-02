@@ -40,6 +40,10 @@ h2 {
     font-family: cursive;
 }
 
+p {
+    color: black;
+}
+
 a {
     text-decoration: none;
      font-size: 20px;
